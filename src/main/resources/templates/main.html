@@ -10,15 +10,15 @@
 
 <div class = "container">
 
-    <h1 class="display-4">Coronavirus Tracker Application(Korea)</h1>
+    <h1 class="display-4">한국 시도별 발생동향</h1>
     <p class="lead">한국의 코로나19 현황테이블</p>
 
     <div class="jumbotron">
         <h1 class="display-4" th:text="${koreaCovid[0].total}"></h1>
-        <p class="lead">Total cases reported</p>
+        <p class="lead">총 확진환자</p>
         <hr class="my-4">
         <p>
-            <span>New cases reported since previous day</span>
+            <span>전일 대비 증가한 확진자 수</span>
             <span th:text="${koreaCovid[0].DTD_Total}">0</span>
         </p>
     </div>
