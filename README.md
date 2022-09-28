@@ -77,7 +77,7 @@
   <ul>
     <li>HTML/CSS</li>
     <br>
-    <li>Bootstrap</li>
+    <li>Bootstrap 4.4.1</li>
     <br>
     <li>Thymeleaf</li>
     <br>
