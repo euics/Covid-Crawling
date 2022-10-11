@@ -32,7 +32,8 @@
 크롤링에 있어 어떤 것을 가져올까 고민하던 와중 실시간으로 변하는 코로나 현황을 가져와 간단히 페이지를 구성하였다.
 <br>
 
-코로나 현황 URL: http://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=
+코로나 현황 URL:  <br>
+http://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=13&ncvContSeq=&contSeq=&board_id=&gubun=
 <br><br>
 
 # 📎 프로젝트 기능
